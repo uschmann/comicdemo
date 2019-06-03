@@ -42,7 +42,6 @@ html, body {
     bottom:-2px;
     position:absolute;
     right:-6px;
-    transform: skew(-15deg) scale(0);
     transform-origin: bottom right;
   }
 
